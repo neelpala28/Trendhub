@@ -1,0 +1,2 @@
+C:/flutter_apps/trendhub/android/app/.cxx/Debug/2h6p4h64/x86/CMakeFiles/edit_cache.dir
+C:/flutter_apps/trendhub/android/app/.cxx/Debug/2h6p4h64/x86/CMakeFiles/rebuild_cache.dir
